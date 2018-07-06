@@ -1,0 +1,20 @@
+{
+  "name": "polycoin",
+  "homepage": "https://github.com/nodza/polycoin",
+  "authors": [
+    "nodza <noel.hwande@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  }
+}
